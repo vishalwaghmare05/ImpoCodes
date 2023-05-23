@@ -9,4 +9,4 @@
 any image randomly can take values from this list and generate images 
 like:  A 2 0  , B 2 8
 
-you could access this code on this [link](https://github.com/vishalwaghmare05/ImpoCodes/blob/master/Image_create.ipynb)
+you could access this code on this [link](https://github.com/vishalwaghmare05/ImpoCodes/blob/master/Image_create.ipynb).
